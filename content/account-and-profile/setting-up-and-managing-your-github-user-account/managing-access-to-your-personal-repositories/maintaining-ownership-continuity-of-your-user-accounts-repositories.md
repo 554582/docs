@@ -1,4 +1,4 @@
----
+---0xef086fcd6c82e0b1d55fb217712a984523389e2c
 title: Maintaining ownership continuity of your user account's repositories
 intro: You can invite someone to manage your user owned repositories if you are not able to.
 versions:
